@@ -1,1 +1,1 @@
-Here I give a brief overview of dimensionality reduction methods currently used in Single Cell RNA sequencing research area.
+Here I give a brief overview of dimensionality reduction methods currently used in Single Cell RNA sequencing research area and demonstrate the advantages of Deep Autoencoders. Next, I show how to implement Deep Autoencoders from scratch using Keras and TensorFlow.
